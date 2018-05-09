@@ -1,0 +1,6 @@
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\NinjectBasics\NijnectTest\bin\Debug\NijnectTest.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\NinjectBasics\NijnectTest\bin\Debug\NijnectTest.pdb
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\NinjectBasics\NijnectTest\bin\Debug\Ninject.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\NinjectBasics\NijnectTest\bin\Debug\Ninject.xml
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\NinjectBasics\NijnectTest\obj\Debug\NijnectTest.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\NinjectBasics\NijnectTest\obj\Debug\NijnectTest.pdb

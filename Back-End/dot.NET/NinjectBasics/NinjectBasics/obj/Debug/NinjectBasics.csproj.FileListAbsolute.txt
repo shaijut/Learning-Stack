@@ -1,0 +1,8 @@
+c:\users\shaiju.ts\documents\visual studio 2015\Projects\NinjectBasics\NinjectBasics\bin\Debug\NinjectBasics.exe.config
+c:\users\shaiju.ts\documents\visual studio 2015\Projects\NinjectBasics\NinjectBasics\bin\Debug\NinjectBasics.exe
+c:\users\shaiju.ts\documents\visual studio 2015\Projects\NinjectBasics\NinjectBasics\bin\Debug\NinjectBasics.pdb
+c:\users\shaiju.ts\documents\visual studio 2015\Projects\NinjectBasics\NinjectBasics\bin\Debug\Ninject.dll
+c:\users\shaiju.ts\documents\visual studio 2015\Projects\NinjectBasics\NinjectBasics\bin\Debug\Ninject.xml
+c:\users\shaiju.ts\documents\visual studio 2015\Projects\NinjectBasics\NinjectBasics\obj\Debug\NinjectBasics.csprojResolveAssemblyReference.cache
+c:\users\shaiju.ts\documents\visual studio 2015\Projects\NinjectBasics\NinjectBasics\obj\Debug\NinjectBasics.exe
+c:\users\shaiju.ts\documents\visual studio 2015\Projects\NinjectBasics\NinjectBasics\obj\Debug\NinjectBasics.pdb
