@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html ng-app="MyModule">
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+
+    <div ng-controller="MyController">
+
+        Rows to display : <input type="number" step="1"
+                                 ng-model="rowDisplayCount" max="5" min="0" />
+        <br /><br />
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Date of Birth</th>
+                    <th>Gender</th>
+                    <th>Salary (number filter)</th>
+                    <th>Salary (currency filter)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="employee in employees | limitTo:rowDisplayCount | orderBy :'-salary'">
+                    <td> {{ employee.name | uppercase }} </td>
+                    <td> {{ employee.dateOfBirth | date:"dd/MM/yyyy" }} </td>
+                    <td> {{ employee.gender }} </td>
+                    <td> {{ employee.salary | number:2 }} </td>
+                    <td> {{ employee.salary | currency : "£" : 1 }} </td>
+                </tr>
+            </tbody>
+        </table>
+
+
+    </div>
+
+
+    <script src="../../Scripts/angular.min.js"></script>
+    <script src="../AppScripts/8_filters.js"></script>
+
+
+</body>
+</html>

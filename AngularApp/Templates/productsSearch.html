@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+
+    <h1>Product Search</h1>
+
+    <table border="1" style="border-collapse:collapse">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Category</th>
+            </tr>
+        </thead>
+        <tr ng-repeat="student in studentsSearchCtrl.students">
+            <td>{{product.Id}}</td>
+            <td>{{product.ProductName}}</td>
+            <td>{{product.Price}}</td>
+            <td>{{product.Category}}</td>
+        </tr>
+    </table>
+
+
+
+</body>
+</html>

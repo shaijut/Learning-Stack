@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html ng-app="MyModule">
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <base href="/AngularApp/AppViews/" />
+    <link href="../../Content/style.css" rel="stylesheet" />
+
+</head>
+<body>
+
+    <table style="font-family: Arial">
+        <tr>
+            <td colspan="2" class="header">
+                <h1>
+                    WebSite Header
+                </h1>
+            </td>
+        </tr>
+        <tr>
+            <td class="leftMenu">
+                <!--<a href="#/home">Home</a>
+                <a href="#/courses">Courses</a>
+                <a href="#/products">Products</a>-->
+
+                <!--url without #-->
+
+                <a href="home">Home</a>
+                <a href="courses">Courses</a>
+                <a href="products">Products</a>
+
+            </td>
+            <td class="mainContent">
+                <ng-view></ng-view>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" class="footer">
+                <b>Website Footer</b>
+            </td>
+        </tr>
+    </table>
+
+    <script src="../../Scripts/angular.min.js"></script>
+    <script src="../../Scripts/angular-route.min.js"></script>
+    <script src="../AppScripts/15_routing.js"></script>
+
+</body>
+</html>

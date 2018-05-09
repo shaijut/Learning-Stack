@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+
+
+    <h1>List of Products</h1>
+    <ul>
+        <li ng-repeat="product in products">
+            <a href="product-details/{{product.Id}}">
+
+                {{product.ProductName}}
+
+            </a>
+        </li>
+    </ul>
+
+    <br />
+
+    <button ng-click="reloadProducts()">Refresh Products</button>
+
+
+
+</body>
+</html>

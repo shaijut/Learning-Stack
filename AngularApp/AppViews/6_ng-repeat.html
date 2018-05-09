@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html ng-app="MyModule">
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+
+    <div ng-controller="MyController">
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Firstname</th>
+                    <th>Lastname</th>
+                    <th>Gender</th>
+                    <th>Salary</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="employee in employees">
+                    <td> {{ employee.firstName }} </td>
+                    <td> {{ employee.lastName }} </td>
+                    <td> {{ employee.gender }} </td>
+                    <td> {{ employee.salary }} </td>
+                </tr>
+            </tbody>
+        </table>
+
+
+        <ul ng-repeat="country in countries" ng-init="parentIndex = $index">
+
+            <li>
+                {{country.name}} - Index = {{$index}}
+
+                <ul>
+                    <li ng-repeat="city in country.cities">
+
+                        {{city.name}} - ParebtIndex = {{parentIndex}} - Index = {{$index}}
+
+                    </li>
+
+
+                </ul>
+
+            </li>
+
+        </ul>
+
+    </div>
+
+
+    <script src="../../Scripts/angular.min.js"></script>
+    <script src="../AppScripts/6_ng-repeat.js"></script>
+
+</body>
+</html>
