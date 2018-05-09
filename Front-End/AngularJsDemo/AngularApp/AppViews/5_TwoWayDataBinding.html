@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html ng-app="MyModule">
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+
+    <div ng-controller="MyController">
+
+        <div>
+
+            <input type="text" placeholder="Enter Your Name" ng-model="userName"/>
+
+        </div>
+
+
+        <div>
+
+           My Name is: {{userName}}
+
+        </div>
+
+        <br />
+
+        <div>
+
+            First Name:  <input type="text" placeholder="Enter First Name" ng-model="employee.firstName" />
+
+        </div>
+
+        <div>
+
+            Last Name:  <input type="text" placeholder="Enter Last Name" ng-model="employee.lastName" />
+
+        </div>
+
+        <div>
+
+            Age:  <input type="text" placeholder="Enter Age" ng-model="employee.age" />
+
+        </div>
+
+        <br />
+
+        <div>
+            First Name: {{employee.firstName}}
+
+        </div>
+
+        <div>
+            Last Name: {{employee.lastName}}
+
+        </div>
+
+        <div>
+            Age: {{employee.age}}
+
+        </div>
+
+    </div>
+
+
+    <script src="../../Scripts/angular.js"></script>
+    <script src="../AppScripts/5_TwoWayDataBinding.js"></script>
+
+</body>
+</html>

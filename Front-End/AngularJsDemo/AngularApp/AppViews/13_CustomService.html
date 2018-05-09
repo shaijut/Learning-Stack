@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html ng-app="MyModule">
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+
+
+    <div ng-controller="MyController">
+
+
+        <input type="text" placeholder="Enter number 1" ng-model="inputX" />
+
+        <input type="text" placeholder="Enter number 2" ng-model="inputY" />
+
+        <br />
+        <br />
+        <br />
+
+        <input type="button" ng-click="additon(inputX,inputY)" value="Add" />
+
+        <br />
+
+        <p>Result: {{additionResult}}</p>
+
+    </div>
+
+    <script src="../../Scripts/angular.min.js"></script>
+    <script src="../AppScripts/13_CustomService.js"></script>
+    <script src="../Services/13_1_mathService.js"></script>
+
+</body>
+</html>
