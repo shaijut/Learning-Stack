@@ -1,0 +1,1 @@
+Includes Software Design Pattern and Architectural Pattern related projects
