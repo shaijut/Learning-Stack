@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<div class="row">
+
+
+
+    <ng-view></ng-view>
+
+
+
+</div>
+
+
+
+<div id="successMessage" ng-show="IsVisible"  class="alert alert-success">
+    People Added Successfully !
+</div>
+
+
+
+
+
+<br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br />
+
+<input type="text" ng-model="formData.FirstName" />
+<br />
+<input type="text" ng-model="formData.MidName" />
+<br />
+<input type="text" ng-model="formData.LastName" />
+<br />
+<input type="text" ng-model="formData.FullName" />
+<br />
+<input type="text" ng-model="formData.EmailID" />
+
+
+<br />
+<br />
+
+<input type="button" value="Add" ng-click="AddPeople()" />
+
+

@@ -1,0 +1,10 @@
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.EF\bin\Debug\ProtoType.Demo.DataAccess.EF.dll.config
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.EF\bin\Debug\ProtoType.Demo.DataAccess.EF.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.EF\bin\Debug\ProtoType.Demo.DataAccess.EF.pdb
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.EF\bin\Debug\EntityFramework.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.EF\bin\Debug\EntityFramework.xml
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.EF\obj\Debug\ProtoType.Demo.DataAccess.EF.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.EF\obj\Debug\ProtoType.Demo.DataAccess.EF.pdb
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.EF\obj\Debug\ProtoType.Demo.DataAccess.EF.csprojResolveAssemblyReference.cache

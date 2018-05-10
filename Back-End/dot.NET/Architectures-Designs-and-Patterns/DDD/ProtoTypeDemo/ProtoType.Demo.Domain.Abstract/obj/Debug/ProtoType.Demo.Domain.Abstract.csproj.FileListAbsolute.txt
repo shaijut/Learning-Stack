@@ -1,0 +1,5 @@
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.Domain.Abstract\bin\Debug\ProtoType.Demo.Domain.Abstract.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.Domain.Abstract\bin\Debug\ProtoType.Demo.Domain.Abstract.pdb
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.Domain.Abstract\obj\Debug\ProtoType.Demo.Domain.Abstract.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.Domain.Abstract\obj\Debug\ProtoType.Demo.Domain.Abstract.pdb
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.Domain.Abstract\obj\Debug\ProtoType.Demo.Domain.Abstract.csprojResolveAssemblyReference.cache

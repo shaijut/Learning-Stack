@@ -1,0 +1,7 @@
+c:\users\shaiju.ts\documents\visual studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer.Abstract\bin\Debug\ProtoType.Demo.DataAccess.SQLServer.Abstract.dll
+c:\users\shaiju.ts\documents\visual studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer.Abstract\bin\Debug\ProtoType.Demo.DataAccess.SQLServer.Abstract.pdb
+c:\users\shaiju.ts\documents\visual studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer.Abstract\obj\Debug\ProtoType.Demo.DataAccess.SQLServer.Abstract.csprojResolveAssemblyReference.cache
+c:\users\shaiju.ts\documents\visual studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer.Abstract\obj\Debug\ProtoType.Demo.DataAccess.SQLServer.Abstract.dll
+c:\users\shaiju.ts\documents\visual studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer.Abstract\obj\Debug\ProtoType.Demo.DataAccess.SQLServer.Abstract.pdb
+c:\users\shaiju.ts\documents\visual studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer.Abstract\bin\Debug\ProtoType.Demo.Domain.Abstract.dll
+c:\users\shaiju.ts\documents\visual studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer.Abstract\bin\Debug\ProtoType.Demo.Domain.Abstract.pdb

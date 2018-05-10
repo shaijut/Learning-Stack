@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html ng-app="peopleAppModule">
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <link href="../../Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+
+
+
+
+
+    <form class="form-horizontal" name="form" ng-controller="MyCtrl" novalidate>
+        <!--<div>
+            <input type="email" name="email" ng-model="user.email" required="" />
+            <span ng-show="hasError('email', 'required')">
+                Email is required
+            </span>
+        </div>-->
+
+        <div class="form-horizontal">
+            <div class="form-group" ng-class="{ 'has-error' : hasError('firstName', 'required') }">
+                <label for="FirstName" class="col-sm-4 control-label">First Name :</label>
+                <div class="col-sm-8">
+                    <input type="text" name="firstName" id="firstName" class="form-control" ng-model="Application.firstName" placeholder="Enter First Name" required="" />
+                    <p ng-show="hasError('firstName', 'required')" class="help-block">First name is required</p>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <button type="submit" ng-click="addPeople(form)">Submit</button>
+        </div>
+    </form>
+  
+ 
+
+
+
+
+        <script src="../../Scripts/jquery-1.10.2.js"></script>
+        <script src="../../Scripts/angular.min.js"></script>
+        <script src="../../Scripts/bootstrap.js"></script>
+   
+
+        <script>
+
+            var peopleApp = angular.module("peopleAppModule", []).controller("MyCtrl", function ($scope,$window) {
+
+
+                $scope.addPeople = function (form) {
+
+                    if (form.$valid) {
+                        $window.alert("valid");
+                    }
+
+                    else {
+                        $window.alert("not valid");
+                    }
+                    // Set the 'submitted' flag to true
+                  
+
+                    $scope.submitted = true;
+                    // Send the form to server
+                    // $http.post ...
+                }
+
+                $scope.hasError = function (field, validation) {
+                    if (validation) {
+                        return ($scope.form[field].$dirty && $scope.form[field].$error[validation]) || ($scope.submitted && $scope.form[field].$error[validation]);
+                    }
+                    return ($scope.form[field].$dirty && $scope.form[field].$invalid) || ($scope.submitted && $scope.form[field].$invalid);
+                };
+
+
+            });
+
+
+        </script>
+</body>
+</html>

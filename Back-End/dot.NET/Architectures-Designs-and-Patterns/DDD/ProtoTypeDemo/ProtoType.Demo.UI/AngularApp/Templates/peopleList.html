@@ -1,0 +1,27 @@
+﻿
+
+    <div class="col-md-6">
+        <h6>Read from MongoDB</h6>
+
+
+
+       
+        <ul>
+            <li ng-repeat="people in peoples">
+                
+
+                    {{people.FullName}}
+
+           
+            </li>
+        </ul>
+
+        <br />
+
+        <button ng-click="reloadPeoplesFromMongo()">Refresh</button>
+
+    </div>
+
+
+
+

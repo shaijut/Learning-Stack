@@ -1,0 +1,16 @@
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\bin\Debug\ProtoType.Demo.DataAccess.SQLServer.dll.config
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\bin\Debug\ProtoType.Demo.DataAccess.SQLServer.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\bin\Debug\ProtoType.Demo.DataAccess.SQLServer.pdb
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\bin\Debug\EntityFramework.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\bin\Debug\ProtoType.Demo.DataAccess.EF.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\bin\Debug\ProtoType.Demo.Domain.Abstract.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\bin\Debug\ProtoType.Demo.Domain.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\bin\Debug\ProtoType.Demo.DataAccess.EF.pdb
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\bin\Debug\ProtoType.Demo.Domain.Abstract.pdb
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\bin\Debug\ProtoType.Demo.Domain.pdb
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\bin\Debug\EntityFramework.xml
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\obj\Debug\ProtoType.Demo.DataAccess.SQLServer.csprojResolveAssemblyReference.cache
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\obj\Debug\ProtoType.Demo.DataAccess.SQLServer.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.SQLServer\obj\Debug\ProtoType.Demo.DataAccess.SQLServer.pdb

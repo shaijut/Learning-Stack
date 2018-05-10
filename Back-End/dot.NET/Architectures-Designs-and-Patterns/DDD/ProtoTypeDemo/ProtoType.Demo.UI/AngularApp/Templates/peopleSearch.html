@@ -1,0 +1,24 @@
+﻿
+<div class="row">
+
+
+    <div class="col-md-offset-4 col-md-6 ng-scope">
+        <h4>Search using Elastic Search</h4>
+
+
+        Name : <input type="text" ng-model="searchQuery" />
+        <button class="btn btn-success" ng-click="searchUsingElastic()">Search</button>
+
+        <ul>
+            <li ng-repeat="people in peoples">
+                {{people.FullName}}
+            </li>
+        </ul>
+
+
+
+    </div>
+
+
+
+</div>

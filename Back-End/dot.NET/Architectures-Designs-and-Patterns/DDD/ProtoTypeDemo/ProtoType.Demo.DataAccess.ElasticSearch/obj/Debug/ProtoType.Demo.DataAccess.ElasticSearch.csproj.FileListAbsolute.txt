@@ -1,0 +1,15 @@
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.ElasticSearch\bin\Debug\ProtoType.Demo.DataAccess.ElasticSearch.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.ElasticSearch\bin\Debug\ProtoType.Demo.DataAccess.ElasticSearch.pdb
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.ElasticSearch\bin\Debug\Elasticsearch.Net.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.ElasticSearch\bin\Debug\Nest.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.ElasticSearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.ElasticSearch\bin\Debug\ProtoType.Demo.Domain.Abstract.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.ElasticSearch\bin\Debug\ProtoType.Demo.Domain.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.ElasticSearch\bin\Debug\ProtoType.Demo.Domain.Abstract.pdb
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.ElasticSearch\bin\Debug\ProtoType.Demo.Domain.pdb
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.ElasticSearch\bin\Debug\Elasticsearch.Net.xml
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.ElasticSearch\bin\Debug\Nest.xml
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.ElasticSearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.ElasticSearch\obj\Debug\ProtoType.Demo.DataAccess.ElasticSearch.csprojResolveAssemblyReference.cache
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.ElasticSearch\obj\Debug\ProtoType.Demo.DataAccess.ElasticSearch.dll
+C:\Users\shaiju.ts\Documents\Visual Studio 2015\Projects\ProtoTypeDemo\ProtoType.Demo.DataAccess.ElasticSearch\obj\Debug\ProtoType.Demo.DataAccess.ElasticSearch.pdb

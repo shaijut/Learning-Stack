@@ -1,0 +1,89 @@
+﻿
+
+    <div class="row">
+
+        <div class="col-md-6">
+
+
+            <h4>Add People</h4>
+
+
+            <form class="form-horizontal" name="form" novalidate>
+                <div class="form-group" ng-class="{ 'has-error' : hasError('FirstName', 'required') }">
+                    <label class="control-label col-sm-3">First Name:</label>
+                    <div class="col-sm-8">
+                        <input type="text" class="form-control" placeholder="Enter First Name" ng-model="formData.FirstName" name="FirstName" required="">
+                        <p ng-show="hasError('FirstName', 'required')" class="help-block">First name is required</p>
+                    </div>
+                </div>
+                <div class="form-group" ng-class="{ 'has-error' : hasError('MidName', 'required') }">
+                    <label class="control-label col-sm-3">Mid Name:</label>
+                    <div class="col-sm-8">
+                        <input type="text" class="form-control" placeholder="Enter Mid Name" ng-model="formData.MidName" name="MidName" required="">
+                        <p ng-show="hasError('MidName', 'required')" class="help-block">Mid Name is required</p>
+                    </div>
+                </div>
+                <div class="form-group" ng-class="{ 'has-error' : hasError('LastName', 'required') }">
+                    <label class="control-label col-sm-3">Last Name:</label>
+                    <div class="col-sm-8">
+                        <input type="text" class="form-control" placeholder="Enter Last Name" ng-model="formData.LastName" name="LastName" required="">
+                        <p ng-show="hasError('LastName', 'required')" class="help-block">Last Name is required</p>
+                    </div>
+                </div>
+                <div class="form-group" ng-class="{ 'has-error' : hasError('FullName', 'required') }">
+                    <label class="control-label col-sm-3">Full Name:</label>
+                    <div class="col-sm-8">
+                        <input type="text" class="form-control" placeholder="Enter Full Name" ng-model="formData.FullName" name="FullName" required="">
+                        <p ng-show="hasError('FullName', 'required')" class="help-block">Full Name is required</p>
+                    </div>
+                </div>
+                <div class="form-group" ng-class="{ 'has-error' : hasError('EmailID', 'required') }">
+                    <label class="control-label col-sm-3">Email ID:</label>
+                    <div class="col-sm-8">
+                        <input type="text" class="form-control" placeholder="Enter Email ID" ng-model="formData.EmailID" name="EmailID" required="">
+                        <p ng-show="hasError('EmailID', 'required')" class="help-block">Email ID is required</p>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-offset-4 col-sm-3">
+                        <button type="button" class="btn btn-default" ng-click="AddPeople(form)">Submit</button>
+                    </div>
+                </div>
+            </form>
+
+            <div id="successMessage" ng-show="successAlertDisplayed" ng-class="{'fade-out': startFade}" class="alert alert-success">
+                People Added Successfully !
+            </div>
+
+            <div id="errorMessage" ng-show="errorAlertDisplayed" ng-class="{'fade-out': startFade}" class="alert alert-danger">
+                Error Occured : {{errorMessage}}
+            </div>
+
+        </div>
+
+
+        <div class="col-md-6">
+            <h4>Read from MongoDB</h4>
+
+
+
+
+            <ul>
+                <li ng-repeat="people in peoples">
+
+
+                    {{people.FullName}}
+
+
+                </li>
+            </ul>
+
+            <br />
+
+            <button class="btn btn-success" ng-click="reloadPeoplesFromMongo()">Refresh</button>
+
+        </div>
+
+    </div>
+
+
